@@ -5,3 +5,22 @@
     height:650px ;
     
 }
+.header1Container{
+    display: flex;
+    padding: 2rem 3rem 2rem 3rem;
+}
+.header1Container img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+.heading2Container {
+    display: flex;
+    padding: 2rem 3rem 2rem 3rem;
+}
+.heading2Container img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
