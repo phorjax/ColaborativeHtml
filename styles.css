@@ -23,4 +23,24 @@
     height: 350px;
     border-radius: 50%;
 }
+.contact{
+    padding: 2rem 3rem 2rem 3rem;
+}
+.insideContact {
+    background-color: rgb(149, 166, 182);
+    width:60% ;
+    height: 300px;
+    margin-left: 300px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-align: right;
+    position: relative;
+    
+}
+button{
+    position: absolute;
+    display: flex;
+    bottom: 20px;
+    right: 20px;
+}
 
